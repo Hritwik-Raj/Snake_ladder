@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618755603 source:c:\users\akash\onedrive\desktop\new folder\snake and ladder game\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+
